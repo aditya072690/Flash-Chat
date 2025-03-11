@@ -107,7 +107,7 @@ Install Flash-Chat using one of the following methods:
 3. Install the project dependencies:
 
 
-**Using `podman`** &nbsp; [<img align="center" src="Podman.svg" />]()
+**Using `podman`** &nbsp;()
 
 ```sh
 ❯ echo 'INSERT-INSTALL-COMMAND-HERE'
